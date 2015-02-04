@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 # = translator.rb
 #
 # Author::        Gary Márquez

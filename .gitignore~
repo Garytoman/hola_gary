@@ -1,9 +1,2 @@
-.bundle
-db/*.mysql
-log/*.log
-tmp/**/*
-nbproject/
-recursos/
-test/
-PaperClipPrivado/
-public/system/*
+.project
+Gemfile
