@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   
   s.files         = ["lib/hola_gary.rb", "lib/hola_gary/translator.rb"]
   s.executables   << 'hola_gary'
-  s.test_files    = spec.files.grep(%r{^(test|spec|features)/})
+  s.test_files    = s.files.grep(%r{^(test|spec|features)/})
   s.require_paths = ["lib"]
   
   s.add_development_dependency "bundler", ">= 1.6"
