@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'hola_gary'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2014-02-03'
   s.summary     = "Hola!"
   s.description = "A simple spanish hello world gem"
